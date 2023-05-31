@@ -21,7 +21,9 @@ myTimer.start();
 
 ## Types
 
+```
 - TimerState - "running" | "paused" | "stoped"
+```
 
 ## Props
 
