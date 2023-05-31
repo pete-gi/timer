@@ -1,0 +1,25 @@
+{
+  "name": "@petegi/timer",
+  "version": "1.0.0",
+  "description": "Timer class for cleaner usage of JS timeouts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "timer",
+    "timeout",
+    "settimeout"
+  ],
+  "author": "Pete Gi. <petegi@outlook.com>",
+  "repository": {
+    "url": "https://github.com/pete-gi/timer"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sinon": "^15.1.0"
+  }
+}
